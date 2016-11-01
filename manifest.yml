@@ -1,8 +1,8 @@
 applications:
 - disk_quota: 1024M
-  host: watson-movieapp-dialog
-  name: watson-movieapp-dialog
+  host: salma-watson-movieapp-dialog
+  name: salma-watson-movieapp-dialog
   path: target/movieapp-dialog.war
-  domain: mybluemix.net
+  domain: eu-gb.mybluemix.net
   instances: 1
   memory: 512M
